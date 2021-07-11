@@ -25,7 +25,7 @@ That number in your head is the "running count". What we're really interested in
 
 In this simulator, we're assuming that we're playing 6-deck blackjack, so the dealer would have 6 decks in total shuffled together. To get the true count, we simply divide the running count by the decks remaining. So for a running count of +5, with 5 decks remaining, that would be a true count of +5/5 = +1.
 
-And for every +1 true count, we would increase our betting size by 1 unit. Whatever that unit may be. It could be $10, $20 whatever we started with. In this simulator, the default value for the minimum bet is $10 and that will also be our betting unit. We will keep betting the minimum, until our true count tells us it's a good time to raise our bet.
+And for every +1 true count, we would increase our betting size by 1 unit. Whatever that unit may be. It could be $10, $20 whatever value we want to bet with. In this simulator, the default value for the minimum bet is $10 and that will also be our betting unit. We will keep betting the minimum, until our true count tells us it's a good time to raise our bet.
 
 ## How Realistic Is This?
 Most casinos are aware of these by now and would shuffle their decks pretty soon, you would be lucky to find a spot where they would wait for 50% of the shoe to have been played before shuffling. In major casinos you would probably see CSMs (Continuous Shuffling Machines), where cards played would instantly be reshuffled into the pool. This makes it extremely hard or even impossible to count cards. Whether or not it is possible to beat CSMs is a topic for another time.
