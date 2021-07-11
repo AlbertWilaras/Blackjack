@@ -13,7 +13,7 @@ Source: https://www.blackjackapprenticeship.com/wp-content/uploads/2018/08/BJA_B
 Notice that even by playing blackjack perfectly according to the chart above (given the house rules allow for all these scenarios), there is still a house advantage of 0.5%. Meaning, for every dollar you bet, you are expected to lose 0.5% of that everytime.
 
 ## Card Counting
-So what is card counting? The concept is simple enough. A common method is to +1 to your count whenever you see a 2-6, add 0 for 7-9 and -1 fpr 10 and up.
+So what is card counting? The concept is simple enough. A common method is to +1 to your count whenever you see a 2-6, add 0 for 7-9 and -1 for 10 and up.
 
 ![alt text](https://www.lasvegasadvisor.com/gambling-with-an-edge/wp-content/uploads/2017/08/cards.jpg)
 
